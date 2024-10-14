@@ -1,5 +1,5 @@
 .main-register{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Roboto;
     /* height: 100vh; */
     max-width: 60%;
     border: 1px solid #DC143C ;
@@ -38,9 +38,16 @@
 }
 .register-head-div2 p{
     font-size: 8px;
-    color: #fff;
+    color: #4332a6;
     text-align: center;
+    
+    
+
+
 }
+
+
+
 .img{
     background-color: #fff;
     height: 70px;
@@ -54,7 +61,7 @@
     margin-top: 0px;
 }
 .register-head h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Roboto;
     color: #fff;
     margin-top: 15px;
     font-size: 22px;
@@ -97,10 +104,10 @@
     color: #DC143C !important;
 }
 .module p{
-    margin-top: 5px;
-    font-size: 11px;
+    margin-top: 10px;
+    font-size: 18px;
     color: gray;
-    padding-top: 0;
+    padding-top: 2px;
 }
 
 /* ----------------------Register Body Section----------------- */
@@ -111,12 +118,13 @@
     background-color: #fff;
 }
 .form-section h2{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Roboto;
     border-bottom: 1px solid #fb90a5;
     padding-bottom: 0;
     margin-top: -25px;
     font-size: 30px;
 }
+
 .form-section label{
     font-size: 15px;
 }
@@ -175,7 +183,7 @@ input[type="date"]{
     text-align: end;
 }
 .btn{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Roboto;
     text-decoration: none;
     padding: 5px 15px;
     margin-right: 6px;
