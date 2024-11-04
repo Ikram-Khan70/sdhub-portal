@@ -34,8 +34,9 @@ import { FooterComponent } from './footer/footer.component';
     MatStepperModule,
     MatInputModule,
     MatButtonModule,
-    MatCardModule,
-    MatToolbarModule
+    MatToolbarModule,
+    MatButtonModule,
+    MatCardModule
   ],
   providers: [
     provideAnimationsAsync()
